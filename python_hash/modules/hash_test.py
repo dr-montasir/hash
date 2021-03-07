@@ -10,7 +10,7 @@ def hash_function():
         print("hash_function() takes 3 arguments")
         print("Arguments: (main.py file_names_path files_directory)")
         print("Example for Linux: python3 main.py ~/Desktop/hash/python_hash/examples/filenames.txt ~/Desktop/hash/python_hash/examples/files")
-        print("Example for Windows: python main.py C:/Users/username/Desktop/hash/python_hash/examples/filenames.txt C:/Users/username/Desktop/hash/python_hash/examples/files")
+        print("Example for Windows: python main.py C:/hash/python_hash/examples/filenames.txt C:/hash/python_hash/examples/files")
         sys.exit()
     else:
         file_names_path = sys.argv[1]

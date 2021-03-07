@@ -7,17 +7,17 @@ Open Terminal
 ```bash
 cd ~/Desktop
 git clone https://github.com/dr-montasir/hash.git
-cd cd hash/python_hash
+cd hash/python_hash
 python3 main.py ~/Desktop/hash/python_hash/examples/filenames.txt ~/Desktop/hash/python_hash/examples/files
 ```
 
 #### Windows
 
 ```bash
-cd C:/Users/username/Desktop
+cd C:/
 git clone https://github.com/dr-montasir/hash.git
-cd cd hash/python_hash
-python main.py C:/Users/username/Desktop/hash/python_hash/examples/filenames.txt C:/Users/username/Desktop/hash/python_hash/examples/files
+cd hash/python_hash
+python main.py C:/hash/python_hash/examples/filenames.txt C:/hash/python_hash/examples/files
 ```
 
 
